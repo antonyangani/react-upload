@@ -1,0 +1,8 @@
+cffi==1.14.5
+cryptography==3.4.7
+greenlet==1.0.0
+jwt==1.2.0
+pycparser==2.20
+PyMySQL==1.0.2
+tormysql==0.4.3
+tornado==6.1
