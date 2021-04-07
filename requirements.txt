@@ -1,8 +1,12 @@
 cffi==1.14.5
 cryptography==3.4.7
 greenlet==1.0.0
+importlib-metadata==3.10.0
 jwt==1.2.0
 pycparser==2.20
 PyMySQL==1.0.2
+SQLAlchemy==1.4.6
 tormysql==0.4.3
 tornado==6.1
+typing-extensions==3.7.4.3
+zipp==3.4.1
