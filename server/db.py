@@ -25,8 +25,11 @@ session = Session()
 
 # Adding user
 
-user = User()
-user.id = 1
-user.username = "Anthony"
-session.add(user)
-session.commit()
+# user = User()
+# user.id = 1
+# user.username = "Anthony"
+# session.add(user)
+# session.commit()
+
+users = session.query(person).all()
+
