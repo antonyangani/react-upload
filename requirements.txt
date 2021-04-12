@@ -10,3 +10,4 @@ tormysql==0.4.3
 tornado==6.1
 typing-extensions==3.7.4.3
 zipp==3.4.1
+tornado-sqlalchemy==0.7.0
